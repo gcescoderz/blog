@@ -1,6 +1,4 @@
 ## Significance of  coding
-									By  
-Deepika S
 
 
 
