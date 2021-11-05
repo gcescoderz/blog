@@ -11,4 +11,5 @@ We are living in times where we need software for pretty much everything. Becaus
 While there was a time when a regular website with functional features was more than enough for most people, now every products needs to have an e-store, customer support and more embedded into their digital persona. 
 
 Conclusion:  As a result whether you are an entrepreneur, employee or coder, coding is extremely relevant to business across the board.
+                          
 By Deepika S
