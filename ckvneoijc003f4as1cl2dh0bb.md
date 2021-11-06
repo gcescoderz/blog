@@ -1,0 +1,9 @@
+## Using social media research to complement traditional methods
+
+    Using a study of coffee drinkers, I outlines how social media-based research can inform and enhance survey research methods rather than replace them.
+    Let’s consider a slightly embellished research objective. We would like to learn everything we can about the experience of purchasing and consuming coffee. We want to know who buys, what they buy, where they buy, when they buy and why they buy coffee.
+For most people, surveys would be the starting point for this research project, given they are unparalleled for generating census-representative measurements with statistically-determined margins of error (if you are a magician capable of generating a probability sample). Plus, surveys are great for measuring quantities and frequencies for very specific researcher-determined questions.
+But, the sheer number of questions required to address all of our research objectives would necessitate a survey of unreasonable length. A simple question like “Where do you purchase coffee?” would have to account for hundreds or thousands of coffee shops, fast-food outlets and casual restaurants in a horribly long grid question. To prevent respondent fatigue and ensure they come away from the survey with a positive experience, it is the researcher’s job to keep questionnaires short and include only the most relevant items. Doing so, however, is not always easy and can result in much discussion among the researchers and clients.
+Without causing any responder fatigue, social media research can be used to help reduce the number of answer options by identifying the items that are most relevant to consumers. For this project, we gathered a random sample of 100,000 online consumer-generated coffee conversations from blogs, microblogs, forums and more. 
+
+-By  Gavaskar S
