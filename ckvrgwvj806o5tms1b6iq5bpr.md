@@ -1,0 +1,14 @@
+## Robotics – The Future is Here
+
+ A  robot  is  a  mechanical  or  virtual  intelligent  agent  that  can  perform  tasks  automatically  or  with  guidance, typically by remote  control
+
+Robots  have  caught  the  attention  of  the  human  eye  in  the  last  some  years. A  device  resembling  a  human  body  that  can  be  programmed  to  perform  human  instructions. A  robot  can  record  and  shows  for  its  master, cook  food, play  music, run  cars, etc. In  certain  countries  like  Japan, Korea, etc., robots  are  commonly  used  for  household  purposes, television  ads.
+Today  robots  have  become  technically  so  advanced  that  Issac  Asimov  had  to  say  “You  can’t  differentiate  between  a  robot  and  the  very  best  of  humans”.
+Unquestionably  a  robot  is  a  scientific  marvel. Although  the  science  of  robotics  only  came  about  in  the  20th  century, the  history  of  human-invented  automation  has  a  much  lengthier  path. In  fact, the  ancient  Greek  engineer-Hero  of  Alexandria, produced  two  texts, Pneumatica  and  Automata, that  testify  the  existence  of  hundreds  of  different  kinds  of  ‘wonder’  machines  capable  of  automated  movement.
+Ofcourse, robotics  in  the  20th  and  21st  centuries  has  advanced  radically  to  include  machines  capable  of  assembling  other  machines  and  even  robots  with  a  structure  similar  to  the  human  body.
+Robotics  have  become  a  burgeoning  science  today  as  more  and  more  money  is  being  invested  in it. The  industrial  robots  are  already  in  fashion  in  Japan, South  Korea  and  many  parts  of  Europe.
+Additionally, robots  have  found  a  place  in  other  spheres  as  toys  and  entertainment, military  weapons, search  and  rescue  assistants  and  many  other  jobs.
+Essentially, as  programming  and  technology  improve, robots  find  a  place  into  many  jobs  that  in  the  past  were  considered  too  dangerous, dull  or  impossible  for  humans  to  achieve. Robots  are  now  being  launched  into  space  to  complete  the  next  stages  of  extraterrestrial  and  extrasolar  research.
+However, robots  so  far  have  been  the  result  of  pure  mechanical  engineering  which  though, appear  like  a  human  body  but  are  devoid  of  any  human emotions. Efforts  are  now  on  to  create  robots  that  think, feel  and  learn  like  human  too.
+This  is  a  step  in  a  process  to  provide  a  workforce  which  is  cheap, skilled  and  more  productive  than  humans. This  does  seem  to  convince  us  that  the  future  is  now  being  envisaged  in  robotics. As  robots  are  now  being  programmed  and  designed  to  replace  humans  in  many  spheres, it  is  clear  that  the  science  of  robotics  is  being  geared  up  to  run  or  even  being  prepared  to  become  the  future  of  the  world.
+    - by Kavya M
