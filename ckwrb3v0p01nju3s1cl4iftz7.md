@@ -12,11 +12,11 @@ Lately our family dining table has also become a work desk, a video conference r
 
 This is where Google Lens can help. When my family’s daily activity involves a walk in the neighborhood, Lens lets me search what I see, like a flower in our neighbor’s front yard.
 
-Lens_Identify_Bird_of_Paradise@2x.png
+
 But it can also be a helpful tool for getting things done while working and learning from home. Today, we’re adding a few new features to make you more productive.
 
 Copy text from paper to your laptop
 You can already use Lens to quickly copy and paste text from paper notes and documents to your phone to save time. Now, when you select text with Lens, you can tap "copy to computer" to quickly paste it on another signed-in device with Chrome. This is great for quickly copying handwritten notes (if you write neatly!) and pasting it on your laptop without having to retype them all.
 
-E694_Lens_Productivity_Assets_INT_CopyToDevice_HANDWRITING.gif
+
 Copying text to your computer requires the latest version of Chrome, and for both devices to be signed into the same Google account.
